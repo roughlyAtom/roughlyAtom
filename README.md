@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning All stuff related to Front
 - 💞️ I’m looking to collaborate on Learning new things
 - 📫 You can find me everywhere with 'roughlyAtom' id
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Web design is fun at all
 
 <!---
